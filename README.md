@@ -1,0 +1,4 @@
+JJNotify
+========
+
+jira-jabber-notifier
